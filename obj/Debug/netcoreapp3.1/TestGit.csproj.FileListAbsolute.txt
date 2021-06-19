@@ -1,0 +1,13 @@
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.exe
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.deps.json
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.runtimeconfig.json
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.runtimeconfig.dev.json
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.dll
+C:\Users\glebs\source\repos\TestGit\TestGit\bin\Debug\netcoreapp3.1\TestGit.pdb
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.csproj.AssemblyReference.cache
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfoInputs.cache
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfo.cs
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.dll
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.pdb
+C:\Users\glebs\source\repos\TestGit\TestGit\obj\Debug\netcoreapp3.1\TestGit.genruntimeconfig.cache
