@@ -5,16 +5,27 @@ namespace TestGit
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            double a = 8.9;
-            double c = 9.2;
-            int sum = Convert.ToInt32(a + c);
+            Console.WriteLine("Enter number");
+            double b = double.Parse(Console.ReadLine());
+            double c = 6.2;
+            int sum = Convert.ToInt32(b + c);
             Console.WriteLine(sum);
-            if (sum >= 18.1)
+            int[] what = new int[sum];
+            if (what.Length >= 18)
             {
-                Console.WriteLine(typeof(MessageProcessingHandler));
+                Console.WriteLine($"{sum} :)");
             }
+            else
+            {
+                Main();
+            }
+        }
+
+        static void Meh()
+        {
+            
         }
     }
 }
