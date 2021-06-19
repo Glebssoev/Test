@@ -1,11 +1,12 @@
 ﻿using System;
+using System.Linq;
 using System.Net.Http;
 
 namespace TestGit
 {
     class Program
     {
-        static void Main()
+        static void Boo()
         {
             Console.WriteLine("Enter number");
             double b = double.Parse(Console.ReadLine());
@@ -13,13 +14,14 @@ namespace TestGit
             int sum = Convert.ToInt32(b + c);
             Console.WriteLine(sum);
             int[] what = new int[sum];
+            int arr;
             if (what.Length >= 18)
             {
                 Console.WriteLine($"{sum} :)");
             }
             else
             {
-                Main();
+                Boo();
             }
         }
 

@@ -4,7 +4,16 @@ using System.Text;
 
 namespace TestGit
 {
-    class Class1
+    class Sonmething
     {
+        public int Arg { get; set; }
+
+        public void Main()
+        {
+            int MumNum = 2;
+            int FirstNum = 2;
+            int SumNum = MumNum - FirstNum;
+            Console.WriteLine(SumNum);
+        }
     }
 }
