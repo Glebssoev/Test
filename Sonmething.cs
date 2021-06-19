@@ -8,7 +8,7 @@ namespace TestGit
     {
         public int Arg { get; set; }
 
-        public void Main()
+        static void Main()
         {
             int MumNum = 2;
             int FirstNum = 2;
